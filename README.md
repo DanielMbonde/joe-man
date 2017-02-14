@@ -1,7 +1,15 @@
 <html>
 <body>
-<h1>Me Web
+<h1>Me WeB
 </h1>
+
+
+<h2> A Little About My Self
+</h2>
+<p>
+Hi my name is daneil im a student a MME Minnetonka Middle shcool East. my favorite color is Gold and my favorite food is pumpkin pie
+I love playing vidoe
+
 
 
 
