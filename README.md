@@ -8,7 +8,9 @@
 </h2>
 <p>
 Hi my name is daneil im a student a MME Minnetonka Middle shcool East. my favorite color is Gold and my favorite food is pumpkin pie
-I love playing comeputer games like total war shogun 2 and Minecraft i play two sports sorcer and wrestling. I playn the frence horn </p>
+I love playing comeputer games like total war shogun 2,planetary annihilation and Minecraft. I play two sports sorcer and wrestling. I playn the frence horn </p> 
+
+
 
 
 
